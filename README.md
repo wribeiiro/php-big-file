@@ -23,4 +23,3 @@ php index.php
 4 - Results with printed at console like this
 
 ![image](https://user-images.githubusercontent.com/20648572/214095876-f438250a-790f-4633-947b-06aa20d6d27d.png)
-![image](https://user-images.githubusercontent.com/20648572/214098043-bec2b7d4-284b-489e-850e-505f16cbb59f.png)
