@@ -38,10 +38,6 @@ function runReaderFiber(): array
 		'memory' => round(memory_get_peak_usage() / 1024, 0) . "KB",
 		'fileLength' => round(filesize('./bigger-file.csv') / 1024 / 1024, 0) . "MB"
 	];
-
-	echo "Leitura usando Fiber" . PHP_EOL;
-	echo "Memória utilizada: " . round(memory_get_peak_usage() / 1024, 0) . "KB" . PHP_EOL;
-	echo "Tamanho do arquivo: " . round(filesize('./bigger-file.csv') / 1024 / 1024, 0) . "MB" . PHP_EOL;
 }
 
 $generatorResult = runReaderGenerator();
