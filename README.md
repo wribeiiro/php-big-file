@@ -22,4 +22,4 @@ php index.php
 
 4 - Results with printed at console like this
 
-![image](https://user-images.githubusercontent.com/20648572/214095876-f438250a-790f-4633-947b-06aa20d6d27d.png)
+![image](https://user-images.githubusercontent.com/20648572/214271894-72934dfa-cf0c-4b5d-8bd5-f80f7bac7626.png)
